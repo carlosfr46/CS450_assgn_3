@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carlosfr46/CS450_assgn_3/static/css/main.40da821f.css",
+    "main.js": "/carlosfr46/CS450_assgn_3/static/js/main.792d570b.js",
+    "static/media/tips.csv": "/carlosfr46/CS450_assgn_3/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/carlosfr46/CS450_assgn_3/index.html",
+    "main.40da821f.css.map": "/carlosfr46/CS450_assgn_3/static/css/main.40da821f.css.map",
+    "main.792d570b.js.map": "/carlosfr46/CS450_assgn_3/static/js/main.792d570b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40da821f.css",
+    "static/js/main.792d570b.js"
+  ]
+}
